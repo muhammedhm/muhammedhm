@@ -13,6 +13,31 @@
 //         printf("The sum is: %d\n",sum);
 //     };
 // }
+//While loop
+// #include <stdio.h>
+// int main() {
+//     int num, i=1;
+//     printf("Enter any Number:\t");
+//     scanf("%d",&num);
+//     while(i <= 2*num){
+//         printf("%d ",i);
+//         i=i+2;
+//     }
+//     return 0;
+// }
+
+//Do-while loop
+// #include <stdio.h>
+// int main() {
+//     int num, i=1;
+//     printf("Enter any Number:\t");
+//     scanf("%d",&num);
+//     do{
+//         printf("%d ",i);
+//         i=i+2;
+//     }while(i <= 2*num);
+//     return 0;
+// }
 
 //Q-2
 // void main(){
