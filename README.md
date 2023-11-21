@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammedhm
-- 👀 I’m interested in AI/ML/Data Science with Cloud Computing and Full-Stack Web Development 
-- 🌱 I’m currently following Computer and Information System Engineering
+- 👀 I’m interested in AI/ML/Data Science 
+- 🌱 I’m currently following BE in Computer and Information System Engineering
 - 💞️ I’m looking to collaborate on Industrial Projects in various related fields
 - 📫 How to reach me: https://www.linkedin.com/in/hasan-muhammed
                       
