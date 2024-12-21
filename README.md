@@ -16,6 +16,8 @@ With a strong foundation in developing machine learning pipelines, my expertise 
 - **🚀 Deployment**
 
 My hands-on experience includes:
+- **👨‍💻 Machine Learning**
+- **👨‍💻 Deep Learning**
 - **👨‍💻 Computer Vision**
 - **🔬 Natural Language Processing (NLP)**
 - **⏲️ Time Series Analysis**
