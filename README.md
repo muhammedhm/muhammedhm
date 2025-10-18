@@ -21,16 +21,17 @@ My hands-on experience includes:
 - **👨‍💻 Computer Vision**
 - **🔬 Natural Language Processing (NLP)**
 - **⏲️ Time Series Analysis**
-
+- **👨‍💻 Generative AI**
+- **👨‍💻 Agentic AI**
 ---
 
 ## Tools & Technologies I Work With
 
-- **💻 Programming Languages**: Python
-- **🔧 Frameworks**: TensorFlow, PyTorch, Scikit-learn, Django, FastAPI
+- **💻 Programming Languages**: Python, TypeScript
+- **🔧 Frameworks**: TensorFlow, PyTorch, Scikit-learn, Django, FastAPI, Langchain, Langgraph,CrewAI
 - **📊 Databases**: SQL/NoSQL Databases
-- **☁️ Cloud Services**: AWS (EC2)
-- **🛠️ Containerization & Orchestration**: Docker, Kubernetes
+- **☁️ Cloud Services**: AWS (EC2), Azure AI
+- **🛠️ Containerization & Orchestration**: Docker, Jenkins
 - **🧮 Data Manipulation & Analysis**: Pandas, Numpy
 
 ---
@@ -39,6 +40,7 @@ My hands-on experience includes:
 
 - **🔢 Machine Learning Model Development**
 - **🕵️‍♂️ Deep Learning (NLP, Computer Vision)**
+- **🕵️‍♂️ Generative AI and Agentic AI** 
 - **🛒 Web Development**
 - **🚪 Model Deployment (MLOps)**
 - **🎨 Data Visualization**
