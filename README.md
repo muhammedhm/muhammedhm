@@ -133,11 +133,11 @@ Driver monitoring and vehicle-tracking models integrated into an autonomous car 
 ### 💼 Experience Snapshot
 
 ```text
-2024 — Present   Associate Software Consultant, AI/ML @ 10Pearls, Karachi
+2024 — 2026      Associate Software Consultant, AI/ML @ 10Pearls, Karachi
                  → Agentic RAG, E-ZPR PR Reviewer, 65+ Oracle Fusion Agents
 
 2023 — 2024      AI Intern, Computer Vision @ Smart City Lab, NCAI-NEDUET
-                 → ADMS, vehicle tracking, real-time inference pipelines
+                 → ADMS, vehicle tracking, cattle-weight detection model (shaeffer's formula), real-time inference pipelines
 ```
 
 ### 🏅 Certifications
