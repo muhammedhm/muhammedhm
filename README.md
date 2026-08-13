@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%E2%80%94+Agentic+AI+%26+RAG+Systems;Building+Production-Grade+LLM+%26+CV+Pipelines;65%2B+Oracle+AI+Agents+Shipped+%7C+Org-Wide+PR+Reviewer;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+PyTorch" alt="Typing SVG" />
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%E2%80%94+Agentic+AI+%26+RAG+Systems;Building+Production-Grade+LLM+%26+CV+Pipelines;65%2B+Oracle+AI+Agents+Shipped+%7C+Org-Wide+PR+Reviewer;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+PyTorch" alt="Typing SVG" />
 
 ### Hi, I'm Muhammed Hasan Misba 👋
 
 **AI/ML Engineer specializing in Agentic AI, RAG & Computer Vision Systems**
-📍 Malwana, Sri Lanka &nbsp;•&nbsp; Currently @ 10Pearls, Karachi
+📍 Malwana, Sri Lanka &nbsp;•&nbsp; 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-murex-five-28.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-muhammed)
@@ -133,7 +133,7 @@ Driver monitoring and vehicle-tracking models integrated into an autonomous car 
 ### 💼 Experience Snapshot
 
 ```text
-2024 — Present   Associate Software Consultant, AI/ML @ 10Pearls, Karachi
+2024 — 2026   Associate Software Consultant, AI/ML @ 10Pearls, Karachi
                  → Agentic RAG, E-ZPR PR Reviewer, 65+ Oracle Fusion Agents
 
 2023 — 2024      AI Intern, Computer Vision @ Smart City Lab, NCAI-NEDUET
