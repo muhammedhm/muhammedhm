@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%E2%80%94+Agentic+AI+%26+RAG+Systems;Building+Production-Grade+LLM+%26+CV+Pipelines;65%2B+Oracle+AI+Agents+Shipped+%7C+Org-Wide+PR+Reviewer;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+PyTorch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%E2%80%94+Agentic+AI+%26+RAG+Systems;Building+Production-Grade+LLM+%26+CV+%26+ML+Pipelines;65%2B+Oracle+AI+Agents+Shipped+%7C+Org-Wide+PR+Reviewer;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+PyTorch" alt="Typing SVG" />
 
 ### Hi, I'm Muhammed Hasan Misba 👋
 
