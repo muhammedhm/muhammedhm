@@ -21,7 +21,7 @@
 I design and deploy **production-grade intelligent systems** on **Azure AI** and **Oracle Cloud Infrastructure**, with 2+ years shipping **agentic AI workflows**, **Retrieval-Augmented Generation (RAG)**, multi-modal LLM integrations, and real-time **computer vision** pipelines at enterprise scale.
 
 - 🔭 Currently building agentic PR review & enterprise data-analyst systems at **10Pearls**
-- 🩺 Working on a **VLM-based medical diagnostic pipeline** for Diabetic Macular Edema
+- 🩺 Delivered a **VLM-based medical diagnostic pipeline** for Diabetic Macular Edema
 - 🌱 Deepening expertise in **LangGraph multi-agent orchestration** and **Agentic RAG benchmarking**
 - 🎓 Final-year **B.E. Computer Systems Engineering** student at NED University (Merit Scholar, CGPA 3.5)
 - 💬 Ask me about **LangChain / LangGraph / CrewAI, RAG architecture, or CV model deployment**
