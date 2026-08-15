@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%E2%80%94+Agentic+AI+%26+RAG+Systems;Building+Production-Grade+LLM+%26+CV+%26+ML+Pipelines;65%2B+Oracle+AI+Agents+Shipped+%7C+Org-Wide+PR+Reviewer;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+PyTorch" alt="Typing SVG" />
 
-### Hi, I'm Muhammed Hasan Misba 👋
+### Hi, I'm Muhammed Hasan Misba 
 
 **AI/ML Engineer specializing in Agentic AI, RAG , Computer Vision & ML Systems**
-📍 Malwana, Sri Lanka 
+ </br> Malwana, Sri Lanka 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-murex-five-28.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-muhammed)
@@ -16,24 +16,24 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-I design and deploy **production-grade intelligent systems** on **Azure AI** and **Oracle Cloud Infrastructure**, with 2+ years shipping **agentic AI workflows**, **Retrieval-Augmented Generation (RAG)**, multi-modal LLM integrations, and real-time **computer vision** pipelines at enterprise scale.
+I design and deploy **production-grade intelligent systems** on **Azure AI** and **Oracle Cloud Infrastructure**, with 2+ years shipping **agentic AI workflows**, **Retrieval-Augmented Generation (RAG)**, multi-modal LLM integrations, real-time **computer vision** pipelines at enterprise scale and **traditional ML pipelines for reporting and prediction**.
 
-- 🔭 Currently building agentic PR review & enterprise data-analyst systems at **10Pearls**
-- 🩺 Delivered a **VLM-based medical diagnostic pipeline** for Diabetic Macular Edema
-- 🌱 Deepening expertise in **LangGraph multi-agent orchestration** and **Agentic RAG benchmarking**
-- 🎓 Final-year **B.E. Computer Systems Engineering** student at NED University (Merit Scholar, CGPA 3.5)
-- 💬 Ask me about **LangChain / LangGraph / CrewAI, RAG architecture, or CV model deployment**
-- ⚡ Fun fact: I trained senior leadership at 10Pearls on Claude Code, Codex & Copilot workflows
+-  Currently building agentic PR review & enterprise data-analyst systems at **10Pearls**
+-  Delivered a **VLM-based medical diagnostic pipeline** for Diabetic Macular Edema
+-  Deepening expertise in **LangGraph multi-agent orchestration** and **Agentic RAG benchmarking**
+-  Final-year **B.E. Computer Systems Engineering** student at NED University (Merit Scholar, CGPA 3.5)
+-  Ask me about **LangChain / LangGraph / CrewAI, RAG architecture, or CV or ML model deployment**
+-  **Fun fact: I trained senior leadership at 10Pearls on Claude Code, Codex & Copilot workflows**
 
 ---
 
-### 📊 Impact by the Numbers
+### Impact by the Numbers
 
 <div align="center">
 
-| 🤖 65+ | 📈 600K+ | ⏱️ 50% | 🎓 3.5 |
+|  65+ |  600K+ |  50% | 🎓 3.5 |
 |:---:|:---:|:---:|:---:|
 | Oracle AI Agents deployed (Redwood, 24A–25D) | CSV rows processed by autonomous data-analyst agent | PR review turnaround cut org-wide via E-ZPR | CGPA — Merit Scholar, NED University |
 
@@ -41,13 +41,13 @@ I design and deploy **production-grade intelligent systems** on **Azure AI** and
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**🩺 [VQA Pipeline for Diabetic Macular Edema](https://www.linkedin.com/feed/update/urn:li:activity:7457053743801606145/)**
+** [VQA Pipeline for Diabetic Macular Edema](https://www.linkedin.com/feed/update/urn:li:activity:7457053743801606145/)**
 `PyTorch` `VLMs` `Multimodal RAG` `VectorDB` `FastAPI`
 
 VLM-based Visual Question Answering + Multimodal RAG diagnostic system delivering AI-powered second opinions for ophthalmologists — targeting specialist access gaps for millions of diabetic patients.
@@ -55,7 +55,7 @@ VLM-based Visual Question Answering + Multimodal RAG diagnostic system deliverin
 </td>
 <td width="50%">
 
-**🔍 [E-ZPR — AI Pull Request Reviewer](https://10pearls.com/ai-code-review-e-zpr/)**
+** [E-ZPR — AI Pull Request Reviewer](https://10pearls.com/ai-code-review-e-zpr/)**
 `LangChain` `Jenkins` `Azure DevOps` `GitHub/GitLab APIs`
 
 Production-grade agentic PR reviewer adopted **org-wide** at 10Pearls across GitHub, GitLab, Bitbucket & Azure Repos — automated code-quality checks, security flaw detection, and inline conversational reviews. **Cut review turnaround by 50%.**
@@ -65,7 +65,7 @@ Production-grade agentic PR reviewer adopted **org-wide** at 10Pearls across Git
 <tr>
 <td width="50%">
 
-**📊 Agentic Enterprise Data Analyst**
+** Agentic Enterprise Data Analyst**
 `LangGraph` `Python` `Pandas/NumPy` `Matplotlib` `FastAPI`
 
 Autonomous multi-agent reporting pipeline ingesting & querying **600,000+ CSV records**, auto-generating executive summaries, statistical plots, and anomaly reports — saving **20+ hours/week** of manual reporting.
@@ -73,7 +73,7 @@ Autonomous multi-agent reporting pipeline ingesting & querying **600,000+ CSV re
 </td>
 <td width="50%">
 
-**🚗 ADMS — Autonomous Driver Monitoring System**
+** ADMS — Autonomous Driver Monitoring System**
 `YOLOv5` `Detectron2` `PyTorch` `OpenCV`
 
 Driver monitoring and vehicle-tracking models integrated into an autonomous car platform at Smart City Lab, NCAI-NEDUET, plus real-time cattle weight & face detection pipelines deployed via Django.
@@ -84,13 +84,13 @@ Driver monitoring and vehicle-tracking models integrated into an autonomous car 
 
 <div align="center">
 
-📌 *More projects & live demos on my* [**Portfolio →**](https://my-portfolio-murex-five-28.vercel.app/#projects)
+*More projects & live demos on my* [**Portfolio →**](https://my-portfolio-murex-five-28.vercel.app/#projects)
 
 </div>
 
 ---
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
 **Agentic & GenAI**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -130,7 +130,7 @@ Driver monitoring and vehicle-tracking models integrated into an autonomous car 
 
 ---
 
-### 💼 Experience Snapshot
+###  Experience Snapshot
 
 ```text
 2024 — 2026      Associate Software Consultant, AI/ML @ 10Pearls, Karachi
@@ -140,13 +140,13 @@ Driver monitoring and vehicle-tracking models integrated into an autonomous car 
                  → ADMS, vehicle tracking, cattle-weight detection model (shaeffer's formula), real-time inference pipelines
 ```
 
-### 🏅 Certifications
+###  Certifications
 
 `AI Evaluation Specialist — micro1 (2026)` &nbsp;•&nbsp; `Oracle Fusion AI Agent Studio Associate (2026)` &nbsp;•&nbsp; `OCI 2025 AI Foundations Associate (2026)` &nbsp;•&nbsp; `Azure AI Fundamentals (2025)` &nbsp;•&nbsp; `Advanced CV in TensorFlow — DeepLearning.AI (2024)` &nbsp;•&nbsp; `IBM Python & Data Engineering (2024)`
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
  
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=muhammedhm&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
@@ -158,7 +158,7 @@ Driver monitoring and vehicle-tracking models integrated into an autonomous car 
 
 <div align="center">
 
-### 📬 Let's Build Something Intelligent Together
+###  Let's Build Something Intelligent Together
 
 Open to opportunities in **AI/ML Engineering, Agentic Workflows, Computer Vision & RAG Architecture**.
 
