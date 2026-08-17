@@ -148,11 +148,7 @@ Driver monitoring and vehicle-tracking models integrated into an autonomous car 
 
 ###  GitHub Stats
  
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=muhammedhm&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=muhammedhm&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub Streak"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammedhm&layout=compact&theme=github_dark&hide_border=true" width="45%" alt="Top Languages"/>
-</div>
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=muhammedhm&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats-eight.vercel.app?user=muhammedhm&theme=github-dark-blue" width="49%" alt="GitHub Streak"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammedhm&layout=compact&theme=github_dark&hide_border=true" width="45%" alt="Top Languages"/> </div> <br>
 
 ---
 
