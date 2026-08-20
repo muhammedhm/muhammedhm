@@ -4,7 +4,7 @@
 
 ### Hi, I'm Muhammed Hasan Misba 
 
-**AI/ML Engineer specializing in Agentic AI, RAG , Computer Vision & ML Systems**
+**AI/ML Engineer specializing in Agentic AI, RAG , Computer Vision & ML Pipelines**
  </br> Malwana, Sri Lanka 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-murex-five-28.vercel.app/)
