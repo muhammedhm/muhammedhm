@@ -47,7 +47,7 @@ I design and deploy **production-grade intelligent systems** on **Azure AI** and
 <tr>
 <td width="50%">
 
-** [VQA Pipeline for Diabetic Macular Edema](https://www.linkedin.com/feed/update/urn:li:activity:7457053743801606145/)**
+[VQA Pipeline for Diabetic Macular Edema](https://www.linkedin.com/feed/update/urn:li:activity:7457053743801606145/)
 `PyTorch` `VLMs` `Multimodal RAG` `VectorDB` `FastAPI`
 
 VLM-based Visual Question Answering + Multimodal RAG diagnostic system delivering AI-powered second opinions for ophthalmologists — targeting specialist access gaps for millions of diabetic patients.
@@ -55,7 +55,7 @@ VLM-based Visual Question Answering + Multimodal RAG diagnostic system deliverin
 </td>
 <td width="50%">
 
-** [E-ZPR — AI Pull Request Reviewer](https://10pearls.com/ai-code-review-e-zpr/)**
+[E-ZPR — AI Pull Request Reviewer](https://10pearls.com/ai-code-review-e-zpr/)
 `LangChain` `Jenkins` `Azure DevOps` `GitHub/GitLab APIs`
 
 Production-grade agentic PR reviewer adopted **org-wide** at 10Pearls across GitHub, GitLab, Bitbucket & Azure Repos — automated code-quality checks, security flaw detection, and inline conversational reviews. **Cut review turnaround by 50%.**
@@ -65,7 +65,7 @@ Production-grade agentic PR reviewer adopted **org-wide** at 10Pearls across Git
 <tr>
 <td width="50%">
 
-** Agentic Enterprise Data Analyst**
+Agentic Enterprise Data Analyst
 `LangGraph` `Python` `Pandas/NumPy` `Matplotlib` `FastAPI`
 
 Autonomous multi-agent reporting pipeline ingesting & querying **600,000+ CSV records**, auto-generating executive summaries, statistical plots, and anomaly reports — saving **20+ hours/week** of manual reporting.
@@ -73,7 +73,7 @@ Autonomous multi-agent reporting pipeline ingesting & querying **600,000+ CSV re
 </td>
 <td width="50%">
 
-** ADMS — Autonomous Driver Monitoring System**
+ADMS — Autonomous Driver Monitoring System
 `YOLOv5` `Detectron2` `PyTorch` `OpenCV`
 
 Driver monitoring and vehicle-tracking models integrated into an autonomous car platform at Smart City Lab, NCAI-NEDUET, plus real-time cattle weight & face detection pipelines deployed via Django.
