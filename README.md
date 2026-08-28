@@ -23,7 +23,7 @@ I design and deploy **production-grade intelligent systems** on **Azure AI** and
 -  Currently building agentic PR review & enterprise data-analyst systems at **10Pearls**
 -  Delivered a **VLM-based medical diagnostic pipeline** for Diabetic Macular Edema
 -  Deepening expertise in **LangGraph multi-agent orchestration** and **Agentic RAG benchmarking**
--  Final-year **B.E. Computer Systems Engineering** student at NED University (Merit Scholar, CGPA 3.5)
+-  **B.E. Computer Systems Engineering** Graduate from NED University (Merit Scholar, CGPA 3.5)
 -  Ask me about **LangChain / LangGraph / CrewAI, RAG architecture, or CV or ML model deployment**
 -  **Fun fact: I trained senior leadership at 10Pearls on Claude Code, Codex & Copilot workflows**
 
