@@ -20,7 +20,7 @@
 
 I design and deploy **production-grade intelligent systems** on **Azure AI** and **Oracle Cloud Infrastructure**, with 2+ years shipping **agentic AI workflows**, **Retrieval-Augmented Generation (RAG)**, multi-modal LLM integrations, real-time **computer vision** pipelines at enterprise scale and **traditional ML pipelines for reporting and prediction**.
 
--  Currently building agentic PR review & enterprise data-analyst systems at **10Pearls**
+-  Developed and maintained agentic PR review & enterprise data-analyst systems at **10Pearls**
 -  Delivered a **VLM-based medical diagnostic pipeline** for Diabetic Macular Edema
 -  Deepening expertise in **LangGraph multi-agent orchestration** and **Agentic RAG benchmarking**
 -  **B.E. Computer Systems Engineering** Graduate from NED University (Merit Scholar, CGPA 3.5)
