@@ -4,10 +4,10 @@
 
 ### Hi, I'm Muhammed Hasan Misba 
 
-**AI/ML Engineer specializing in Agentic AI, RAG , Computer Vision & ML Pipelines**
+**AI & Data Engineer specializing in Agentic AI, RAG , Computer Vision & ML Pipelines**
  </br> Colombo, Western Province, Sri Lanka 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-murex-five-28.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammedhm.site.je/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-muhammed)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedhm2002@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white)](https://my-portfolio-murex-five-28.vercel.app/Muhammed_Hasan_Misba_Resume.pdf)
