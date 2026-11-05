@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammedhm.site.je/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-muhammed)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedhm2002@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white)](https://my-portfolio-murex-five-28.vercel.app/Muhammed_Hasan_Misba_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white)](https://muhammedhm.site.je/Muhammed_Hasan_Misba_Resume.pdf)
 
 </div>
 
@@ -84,7 +84,7 @@ Driver monitoring and vehicle-tracking models integrated into an autonomous car 
 
 <div align="center">
 
-*More projects & live demos on my* [**Portfolio →**](https://my-portfolio-murex-five-28.vercel.app/#projects)
+*More projects & live demos on my* [**Portfolio →**](https://muhammedhm.site.je/#projects)
 
 </div>
 
@@ -156,9 +156,9 @@ Driver monitoring and vehicle-tracking models integrated into an autonomous car 
 
 ###  Let's Build Something Intelligent Together
 
-Open to opportunities in **AI/ML Engineering, Agentic Workflows, Computer Vision & RAG Architecture**.
+Open to opportunities in **AI/ML Engineering,Data Engineering, Agentic Workflows, Computer Vision & RAG Architecture**.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--portfolio--murex--five--28.vercel.app-58A6FF?style=for-the-badge)](https://my-portfolio-murex-five-28.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-muhammmedhm.site.je-58A6FF?style=for-the-badge)](https://muhammedhm.site.je/)
 [![Email](https://img.shields.io/badge/muhammedhm2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedhm2002@gmail.com)
 
 ⭐️ *From [muhammedhm](https://github.com/muhammedhm) — thanks for stopping by!*
